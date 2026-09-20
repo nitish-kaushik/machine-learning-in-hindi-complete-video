@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ConsumeModelInAPI/ConsumeModelInAPI.csproj" />
+  <Project Path="FirstMLNetModel/FirstMLNetModel.csproj" />
+</Solution>
